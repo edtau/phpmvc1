@@ -13,7 +13,7 @@ require __DIR__.'/config_with_app.php';
 $app->theme->setVariable('title', "Hello World Pagecontroller")
            ->setVariable('main', "
     <h1>Hello World Pagecontroller</h1>
-    <p>This is a sample pagecontroller that shows how to use Anax.</p>
+    <p>This is a sample pagecontroller that shows how to use Anax12.</p>
 ");
 
 
