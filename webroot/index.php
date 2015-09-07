@@ -26,7 +26,6 @@ $app->router->add('', function() use ($app) {
         'byline' => $byline,
 
     ]);
-
 });
 
 $app->router->add('me', function() use ($app) {
